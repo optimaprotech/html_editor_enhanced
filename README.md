@@ -1,5 +1,5 @@
 # Flutter Html Editor - Enhanced
-[![pub package](https://img.shields.io/pub/v/html_editor_enhanced.svg)](https://pub.dev/packages/html_editor_enhanced)
+
 
 Flutter HTML Editor Enhanced is a text editor for Android, iOS, and Web to help write WYSIWYG HTML code with the Summernote JavaScript wrapper.
 
